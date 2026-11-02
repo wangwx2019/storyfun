@@ -6,6 +6,24 @@
 - 当前进度：**Level 1 已完成**
 - 文本来源：PDF 经 [MinerU](https://mineru.net/) 转换，图片为 MinerU CDN 外链
 
+## 拆书网页
+
+在线预览：**https://wangwx2019.github.io/storyfun/**
+
+用 HTML + Markdown + Mermaid 做的极简拆书页，包含：
+
+- 8 个单元的故事地图、词汇卡、句型卡、价值点和小任务
+- 全书学习地图、Starters 题型对应、家长/老师指南
+- 每个单元都能一键跳回原始 Markdown 对照
+
+站点入口是 `index.html`，Markdown 放在 `content/`，样式和脚本在 `assets/`。本地预览：
+
+```bash
+python -m http.server 8123
+```
+
+然后打开 <http://localhost:8123>。
+
 ## 进度
 
 | 级别 | 状态 | 说明 |
