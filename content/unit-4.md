@@ -115,6 +115,11 @@ bag, ball, book, bus, catch, classroom, crayons, eraser, Grace, Hugo, jump, Mark
 </div>
 
 <div class="pattern-card">
+  <p class="en">What's this? — It's my new crayon.</p>
+  <p class="cn">这是什么？——是我的新蜡笔。</p>
+</div>
+
+<div class="pattern-card">
   <p class="en">Here you are! Have my ruler. I've got two!</p>
   <p class="cn">给你！用我的尺子吧，我有两把！</p>
 </div>
@@ -125,7 +130,9 @@ bag, ball, book, bus, catch, classroom, crayons, eraser, Grace, Hugo, jump, Mark
 | --- | --- | --- |
 | 我的东西在哪？ | Where's my + 单数名词? | Where's my pen? |
 | 这是我的…… | Here's my + 单数名词 | Here's my school bag. |
+| 这是他的 / 她的…… | Here's his / her + 单数名词 | Here's his pen. |
 | 这些是我的…… | Here are my + 复数名词 | Here are my crayons. |
+| 问这是什么 | What's this? | What's this? — It's a ruler. |
 | 递东西 | Here you are! | Here you are! |
 
 <p class="small">区分 <strong>Here's</strong>（单数）和 <strong>Here are</strong>（复数）：Here's my pen. / Here are my pens.</p>

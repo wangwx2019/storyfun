@@ -160,7 +160,7 @@ animal, body, brown, can, climb, crocodile, duck, ear, elephant, eye, face, feet
 | Listening Part 4 | 听指令，给动物图片涂色 |
 | Speaking Part 4 | 回答关于自己的问题 |
 
-<p class="small">Home Fun Booklet：<strong>Animals</strong> 第 14–15 页；<strong>Review</strong> 第 22–23 页。</p>
+<p class="small">Home Fun Booklet：<strong>Animals</strong> 第 14–15 页。</p>
 
 ## 🔗 原书链接
 

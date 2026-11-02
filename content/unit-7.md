@@ -156,7 +156,7 @@ afternoon, Alice, badminton, baseball, basketball, beach, bus stop, father, fish
 | Listening Part 2 | 听数字和名字拼写 |
 | Speaking Part 3 | 回答关于物品卡片的问题 |
 
-<p class="small">Home Fun Booklet：<strong>Sports</strong> 第 18–19 页；<strong>Review</strong> 第 22–23 页。</p>
+<p class="small">Home Fun Booklet：<strong>Sports</strong> 第 18–19 页。</p>
 
 ## 🔗 原书链接
 

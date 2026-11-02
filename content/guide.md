@@ -81,13 +81,15 @@ flowchart LR
 | 单元 | Home Fun 主题 | 页码 |
 | --- | --- | --- |
 | 1 Counting | Numbers | 4–5 |
-| 2 Come and play | Toys / Review | 6–7, 12–13 |
-| 3 Kim's birthday | Family / Review | 8–9, 12–13 |
+| 2 Come and play | Toys | 6–7 |
+| 3 Kim's birthday | Family | 8–9 |
 | 4 Hugo's school bag | School / Review | 10–11, 12–13 |
-| 5 What am I? | Animals / Review | 14–15, 22–23 |
-| 6 Grandma's glasses | Home / Review | 16–17, 22–23 |
-| 7 Let's go there now! | Sports / Review | 18–19, 22–23 |
-| 8 Not today! | Food / Review / Let's have fun! | 20–25 |
+| 5 What am I? | Animals | 14–15 |
+| 6 Grandma's glasses | Home | 16–17 |
+| 7 Let's go there now! | Sports | 18–19 |
+| 8 Not today! | Food | 20–21 |
+
+<p class="small">书末还有 <strong>Review</strong> 第 22–23 页和 <strong>Let's have fun!</strong> 第 24–25 页，适合作为全书复习或假期活动。</p>
 
 <div class="callout callout-teal">
   <span class="callout-title">给家长的一句话</span>

@@ -161,7 +161,7 @@ apple, apple pie, carrots, chicken, chips, clothes shop, donkey, egg, fish, food
 | Reading and Writing Part 4 | 看图片和短文，填一个名词 |
 | Listening Part 1 | 听名字，把人名和人物连线 |
 
-<p class="small">Home Fun Booklet：<strong>Food</strong> 第 20–21 页；<strong>Review</strong> 第 22–23 页；<strong>Let's have fun!</strong> 第 24–25 页。</p>
+<p class="small">Home Fun Booklet：<strong>Food</strong> 第 20–21 页。书末还有 <strong>Review</strong> 第 22–23 页和 <strong>Let's have fun!</strong> 第 24–25 页，可作为全书复习。</p>
 
 ## 🔗 原书链接
 

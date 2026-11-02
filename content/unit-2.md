@@ -154,7 +154,7 @@ Anna, bag, ball, bat, big, bike, book, car, children, doll, duck, frog, funny, g
 | Listening Part 4 | 听指令，给图片涂色 |
 | Speaking Part 2 | 看图回答问题 |
 
-<p class="small">Home Fun Booklet：<strong>Toys</strong> 第 6–7 页；<strong>Review</strong> 第 12–13 页。</p>
+<p class="small">Home Fun Booklet：<strong>Toys</strong> 第 6–7 页。</p>
 
 ## 🔗 原书链接
 

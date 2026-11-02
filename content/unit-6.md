@@ -158,7 +158,7 @@ armchair, bike, can, coat, come, computer, cupboard, Dad, drive, find, glasses, 
 | Listening Part 4 | 听指令，给图片涂色 |
 | Speaking Part 1 | 指图、放卡片、说位置 |
 
-<p class="small">Home Fun Booklet：<strong>Home</strong> 第 16–17 页；<strong>Review</strong> 第 22–23 页。</p>
+<p class="small">Home Fun Booklet：<strong>Home</strong> 第 16–17 页。</p>
 
 ## 🔗 原书链接
 

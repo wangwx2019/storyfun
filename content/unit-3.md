@@ -155,7 +155,7 @@ balloon, birthday, brother, cake, card, clock, dad, Dan, eight, family, food, gr
 | Reading and Writing Part 2 | 看图读句子，写 yes / no |
 | Listening Part 4 | 听指令，给派对图片涂色 |
 
-<p class="small">Home Fun Booklet：<strong>Family</strong> 第 8–9 页；<strong>Review</strong> 第 12–13 页。</p>
+<p class="small">Home Fun Booklet：<strong>Family</strong> 第 8–9 页。</p>
 
 ## 🔗 原书链接
 
