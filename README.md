@@ -4,7 +4,7 @@
 
 - 适用考试：Cambridge English: Young Learners (YLE)
 - 当前进度：**Level 1 已完成**
-- 文本来源：PDF 经 [MinerU](https://mineru.net/) 转换，图片为 MinerU CDN 外链
+- 文本来源：PDF 经 [MinerU](https://mineru.net/) 转换；故事页图片为 MinerU CDN 外链，Home Fun 练习/答案页从原书 PDF 按页导出
 
 ## 拆书网页
 
@@ -14,6 +14,7 @@
 
 - 8 个单元的故事地图、词汇卡、句型卡、价值点和小任务
 - 每个单元页末的 Home Fun 练习页 + 折叠答案，学完就能做
+- 每个单元都附原书 PDF 对应页，可在线核对或打印
 - 全书学习地图、Starters 题型对应、家长/老师指南
 - 每个单元都能一键跳回原始 Markdown 对照
 
@@ -42,6 +43,8 @@ python -m http.server 8123
 | Teacher's Book | 教师用书（59 页） | [打开](MinerU_markdown_182_2-_Storyfun_1._Teacher's_Book_Saxby_Karen_2017_-59p__2117271774566453248.md) |
 | Home Fun Booklet | 家庭练习册（32 页） | [打开](MinerU_markdown_182_4-_Home_Fun_Booklet_1_Owen_Melissa_2017_-32p__2117271120779317248.md) |
 | Home Fun Booklet Answers | 家庭练习册答案（32 页） | [打开](MinerU_markdown_182_5-_Home_Fun_Booklet_1._Answers_Owen_Melissa_2017_-32p__2117271459733602304.md) |
+| Home Fun Booklet PDF | 练习册原书 PDF（35 页） | [打开](assets/pdf/home-fun-booklet-1.pdf) |
+| Home Fun Booklet Answers PDF | 答案原书 PDF（32 页） | [打开](assets/pdf/home-fun-answers-1.pdf) |
 
 ### Student's Book 目录
 
@@ -76,24 +79,28 @@ python -m http.server 8123
 
 ### Home Fun Booklet 目录
 
-| 主题 | 页码 |
-| --- | --- |
-| Numbers | 4 |
-| Toys | 6 |
-| Family | 8 |
-| School | 10 |
-| Review | 12 |
-| Animals | 14 |
-| Home | 16 |
-| Sports | 18 |
-| Food | 20 |
-| Review | 22 |
-| Let's have fun! | 24 |
-| Picture dictionary | 26 |
+| 主题 | 书页码 | 练习 PDF 页 | 答案 PDF 页 |
+| --- | --- | --- | --- |
+| Numbers | 4–5 | 6–7 | 4–5 |
+| Toys | 6–7 | 8–9 | 6–7 |
+| Family | 8–9 | 10–11 | 8–9 |
+| School | 10–11 | 12–13 | 10–11 |
+| Review | 12–13 | 14–15 | 12–13 |
+| Animals | 14–15 | 16–17 | 14–15 |
+| Home | 16–17 | 18–19 | 16–17 |
+| Sports | 18–19 | 20–21 | 18–19 |
+| Food | 20–21 | 22–23 | 20–21 |
+| Review | 22–23 | 24–25 | 22–23 |
+| Let's have fun! | 24–25 | 26–27 | 24–25 |
+| Picture dictionary | 26–31 | 28–33 | 26–31 |
+
+> 练习册 PDF 的 PDF 页码 = 书页码 + 2；答案 PDF 的 PDF 页码 = 书页码。
 
 ## 使用说明
 
-- 在 GitHub 上直接点击文件即可阅读，图片会自动从 CDN 加载。
+- 在 GitHub 上直接点击文件即可阅读，故事页图片会自动从 CDN 加载。
+- Home Fun 练习/答案页已从原书 PDF 按页导出，放在 `assets/pages/home-fun/`；原书 PDF 放在 `assets/pdf/`。
+- 每个单元页末的 PDF 按钮会跳到对应页：练习册从 PDF 第 6 页开始（书页 4），答案册从 PDF 第 4 页开始（书页 4）。
 - 也可克隆到本地后使用任意 Markdown 阅读器打开：
 
   ```bash

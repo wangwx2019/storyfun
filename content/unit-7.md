@@ -159,31 +159,40 @@ afternoon, Alice, badminton, baseball, basketball, beach, bus stop, father, fish
 
 ## 📝 Home Fun 练习
 
-<p class="small">学完这个单元，顺手做一页 Home Fun。先独立完成，再展开答案；点击图片可以看大图。</p>
+<p class="small">学完这个单元，顺手做一组 Home Fun。先独立完成，再展开答案；点击图片可以看大图，也可以直接打开原书 PDF 对照或打印。</p>
 
 <div class="practice">
   <div class="practice-head">
     <span class="practice-badge">HOME FUN</span>
     <span class="practice-title">Sports · 第 18–19 页</span>
   </div>
-  <p class="practice-task"><strong>本页任务：</strong>B Look and write. Listen and draw lines. 练习运动词汇和喜好表达。</p>
+  <p class="practice-task"><strong>本组任务：</strong>A Colour the sports words. B Look and write. Listen and draw lines.</p>
   <div class="practice-pages">
     <figure class="practice-figure">
-  <a href="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/f1094ecd-cb9b-40e3-ab0c-16a58fd7295a/cdbca9af7922a70167c57e885bc53a4e4755aca939d2981d97161252b6a0de16.jpg" target="_blank" rel="noopener"><img src="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/f1094ecd-cb9b-40e3-ab0c-16a58fd7295a/cdbca9af7922a70167c57e885bc53a4e4755aca939d2981d97161252b6a0de16.jpg" alt="Home Fun Booklet Sports 练习页"></a>
-  <figcaption>练习页</figcaption>
-</figure>
+      <a href="assets/pages/home-fun/practice-p18.jpg" target="_blank" rel="noopener"><img src="assets/pages/home-fun/practice-p18.jpg" alt="Home Fun Booklet Sports 第 18 页练习" width="1158" height="1638" loading="lazy"></a>
+      <figcaption>练习页 · 第 18 页</figcaption>
+    </figure>
+    <figure class="practice-figure">
+      <a href="assets/pages/home-fun/practice-p19.jpg" target="_blank" rel="noopener"><img src="assets/pages/home-fun/practice-p19.jpg" alt="Home Fun Booklet Sports 第 19 页练习" width="1158" height="1638" loading="lazy"></a>
+      <figcaption>练习页 · 第 19 页</figcaption>
+    </figure>
   </div>
+  <p class="practice-pdf"><a class="btn btn-ghost" href="assets/pdf/home-fun-booklet-1.pdf#page=20" target="_blank" rel="noopener">练习 PDF · 书页 18–19（PDF 第 20–21 页）</a></p>
   <details>
     <summary>做完啦，查看答案</summary>
     <div class="practice-answer">
-      <div class="practice-pages"><figure class="practice-figure">
-  <a href="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/5d8c8189-e794-4ede-9acf-40b6317df75a/dbabf8a3192148d0972bd7bfea833ed49bf14425fbcc91fdffbc0d92acdefc3f.jpg" target="_blank" rel="noopener"><img src="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/5d8c8189-e794-4ede-9acf-40b6317df75a/dbabf8a3192148d0972bd7bfea833ed49bf14425fbcc91fdffbc0d92acdefc3f.jpg" alt="Home Fun Booklet Sports 答案页 1"></a>
-  <figcaption>答案页 1</figcaption>
-</figure>
-<figure class="practice-figure">
-  <a href="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/5d8c8189-e794-4ede-9acf-40b6317df75a/c431bf55a5fee11275d4364eb4d53d256d69c45fb85fd7a99d25a9f205773523.jpg" target="_blank" rel="noopener"><img src="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/5d8c8189-e794-4ede-9acf-40b6317df75a/c431bf55a5fee11275d4364eb4d53d256d69c45fb85fd7a99d25a9f205773523.jpg" alt="Home Fun Booklet Sports 答案页 2"></a>
-  <figcaption>答案页 2</figcaption>
-</figure></div>
+      <div class="practice-pages">
+    <figure class="practice-figure">
+      <a href="assets/pages/home-fun/answer-p18.jpg" target="_blank" rel="noopener"><img src="assets/pages/home-fun/answer-p18.jpg" alt="Home Fun Booklet Sports 第 18 页答案" width="1202" height="1682" loading="lazy"></a>
+      <figcaption>答案页 · 第 18 页</figcaption>
+    </figure>
+    <figure class="practice-figure">
+      <a href="assets/pages/home-fun/answer-p19.jpg" target="_blank" rel="noopener"><img src="assets/pages/home-fun/answer-p19.jpg" alt="Home Fun Booklet Sports 第 19 页答案" width="1202" height="1682" loading="lazy"></a>
+      <figcaption>答案页 · 第 19 页</figcaption>
+    </figure>
+      </div>
+      <p class="practice-pdf"><a class="btn btn-ghost" href="assets/pdf/home-fun-answers-1.pdf#page=18" target="_blank" rel="noopener">答案 PDF · 书页 18–19（PDF 第 18–19 页）</a></p>
+      <p class="small">答案页里的 “Student's own answers” 表示开放题，孩子自己的回答就是正确答案。</p>
     </div>
   </details>
   <p class="practice-note">原书：<a href="https://github.com/wangwx2019/storyfun/blob/main/MinerU_markdown_182_4-_Home_Fun_Booklet_1_Owen_Melissa_2017_-32p__2117271120779317248.md#L759-L801" target="_blank" rel="noopener">Home Fun Booklet · Sports</a> · <a href="https://github.com/wangwx2019/storyfun/blob/main/MinerU_markdown_182_5-_Home_Fun_Booklet_1._Answers_Owen_Melissa_2017_-32p__2117271459733602304.md#L662-L710" target="_blank" rel="noopener">Answers · Sports</a>。</p>

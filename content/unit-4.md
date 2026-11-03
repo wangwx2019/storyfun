@@ -162,31 +162,40 @@ bag, ball, book, bus, catch, classroom, crayons, eraser, Grace, Hugo, jump, Mark
 
 ## 📝 Home Fun 练习
 
-<p class="small">学完这个单元，顺手做一页 Home Fun。先独立完成，再展开答案；点击图片可以看大图。</p>
+<p class="small">学完这个单元，顺手做一组 Home Fun。先独立完成，再展开答案；点击图片可以看大图，也可以直接打开原书 PDF 对照或打印。</p>
 
 <div class="practice">
   <div class="practice-head">
     <span class="practice-badge">HOME FUN</span>
     <span class="practice-title">School · 第 10–11 页</span>
   </div>
-  <p class="practice-task"><strong>本页任务：</strong>A Put a tick or a cross. B Read, colour and write. D Listen and colour. 练习学校物品和颜色。</p>
+  <p class="practice-task"><strong>本组任务：</strong>A Put a tick or a cross. B Read, colour and write. Listen and follow. D Listen and colour.</p>
   <div class="practice-pages">
     <figure class="practice-figure">
-  <a href="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/f1094ecd-cb9b-40e3-ab0c-16a58fd7295a/035e099595dd03b6ee7a9167593dd99521357a8151b7c9b8b295dbe659f330e8.jpg" target="_blank" rel="noopener"><img src="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/f1094ecd-cb9b-40e3-ab0c-16a58fd7295a/035e099595dd03b6ee7a9167593dd99521357a8151b7c9b8b295dbe659f330e8.jpg" alt="Home Fun Booklet School 练习页"></a>
-  <figcaption>练习页</figcaption>
-</figure>
+      <a href="assets/pages/home-fun/practice-p10.jpg" target="_blank" rel="noopener"><img src="assets/pages/home-fun/practice-p10.jpg" alt="Home Fun Booklet School 第 10 页练习" width="1158" height="1638" loading="lazy"></a>
+      <figcaption>练习页 · 第 10 页</figcaption>
+    </figure>
+    <figure class="practice-figure">
+      <a href="assets/pages/home-fun/practice-p11.jpg" target="_blank" rel="noopener"><img src="assets/pages/home-fun/practice-p11.jpg" alt="Home Fun Booklet School 第 11 页练习" width="1158" height="1638" loading="lazy"></a>
+      <figcaption>练习页 · 第 11 页</figcaption>
+    </figure>
   </div>
+  <p class="practice-pdf"><a class="btn btn-ghost" href="assets/pdf/home-fun-booklet-1.pdf#page=12" target="_blank" rel="noopener">练习 PDF · 书页 10–11（PDF 第 12–13 页）</a></p>
   <details>
     <summary>做完啦，查看答案</summary>
     <div class="practice-answer">
-      <div class="practice-pages"><figure class="practice-figure">
-  <a href="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/5d8c8189-e794-4ede-9acf-40b6317df75a/941732f796ef7794af8d9b12f53b1f534b8cc29c877b772cf903d45162e3f2be.jpg" target="_blank" rel="noopener"><img src="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/5d8c8189-e794-4ede-9acf-40b6317df75a/941732f796ef7794af8d9b12f53b1f534b8cc29c877b772cf903d45162e3f2be.jpg" alt="Home Fun Booklet School 答案页 1"></a>
-  <figcaption>答案页 1</figcaption>
-</figure>
-<figure class="practice-figure">
-  <a href="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/5d8c8189-e794-4ede-9acf-40b6317df75a/44165257c32f4af190eef0f865dfb9b02e736a4e7f4b5ba9bc23e3d425fde203.jpg" target="_blank" rel="noopener"><img src="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/5d8c8189-e794-4ede-9acf-40b6317df75a/44165257c32f4af190eef0f865dfb9b02e736a4e7f4b5ba9bc23e3d425fde203.jpg" alt="Home Fun Booklet School 答案页 2"></a>
-  <figcaption>答案页 2</figcaption>
-</figure></div>
+      <div class="practice-pages">
+    <figure class="practice-figure">
+      <a href="assets/pages/home-fun/answer-p10.jpg" target="_blank" rel="noopener"><img src="assets/pages/home-fun/answer-p10.jpg" alt="Home Fun Booklet School 第 10 页答案" width="1202" height="1682" loading="lazy"></a>
+      <figcaption>答案页 · 第 10 页</figcaption>
+    </figure>
+    <figure class="practice-figure">
+      <a href="assets/pages/home-fun/answer-p11.jpg" target="_blank" rel="noopener"><img src="assets/pages/home-fun/answer-p11.jpg" alt="Home Fun Booklet School 第 11 页答案" width="1202" height="1682" loading="lazy"></a>
+      <figcaption>答案页 · 第 11 页</figcaption>
+    </figure>
+      </div>
+      <p class="practice-pdf"><a class="btn btn-ghost" href="assets/pdf/home-fun-answers-1.pdf#page=10" target="_blank" rel="noopener">答案 PDF · 书页 10–11（PDF 第 10–11 页）</a></p>
+      <p class="small">答案页里的 “Student's own answers” 表示开放题，孩子自己的回答就是正确答案。</p>
     </div>
   </details>
   <p class="practice-note">原书：<a href="https://github.com/wangwx2019/storyfun/blob/main/MinerU_markdown_182_4-_Home_Fun_Booklet_1_Owen_Melissa_2017_-32p__2117271120779317248.md#L358-L456" target="_blank" rel="noopener">Home Fun Booklet · School</a> · <a href="https://github.com/wangwx2019/storyfun/blob/main/MinerU_markdown_182_5-_Home_Fun_Booklet_1._Answers_Owen_Melissa_2017_-32p__2117271459733602304.md#L272-L375" target="_blank" rel="noopener">Answers · School</a>。</p>
@@ -195,25 +204,38 @@ bag, ball, book, bus, catch, classroom, crayons, eraser, Grace, Hugo, jump, Mark
 <div class="practice">
   <div class="practice-head">
     <span class="practice-badge">REVIEW</span>
-    <span class="practice-title">Review · 第 12–13 页（Unit 4 加练）</span>
+    <span class="practice-title">Review 1 · 第 12–13 页（Unit 4 后复习）</span>
   </div>
-  <p class="practice-task"><strong>本页任务：</strong>A Draw lines. B Colour the school / family / toy words. Fun at home：看图连线，讲给家人听。</p>
+  <p class="practice-task"><strong>本组任务：</strong>A Draw lines. B Colour the school words green. Colour the family words brown. Colour the toy words blue. Fun at home: Look and draw lines. Tell your family.</p>
   <div class="practice-pages">
     <figure class="practice-figure">
-  <a href="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/f1094ecd-cb9b-40e3-ab0c-16a58fd7295a/ed9805855d8ac9f655d488dbe1020dc9d466b5bc4c212696b1ab4a67a5561aa2.jpg" target="_blank" rel="noopener"><img src="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/f1094ecd-cb9b-40e3-ab0c-16a58fd7295a/ed9805855d8ac9f655d488dbe1020dc9d466b5bc4c212696b1ab4a67a5561aa2.jpg" alt="Home Fun Booklet Review 1 练习页"></a>
-  <figcaption>练习页</figcaption>
-</figure>
+      <a href="assets/pages/home-fun/practice-p12.jpg" target="_blank" rel="noopener"><img src="assets/pages/home-fun/practice-p12.jpg" alt="Home Fun Booklet Review 1 第 12 页练习" width="1158" height="1638" loading="lazy"></a>
+      <figcaption>练习页 · 第 12 页</figcaption>
+    </figure>
+    <figure class="practice-figure">
+      <a href="assets/pages/home-fun/practice-p13.jpg" target="_blank" rel="noopener"><img src="assets/pages/home-fun/practice-p13.jpg" alt="Home Fun Booklet Review 1 第 13 页练习" width="1158" height="1638" loading="lazy"></a>
+      <figcaption>练习页 · 第 13 页</figcaption>
+    </figure>
   </div>
+  <p class="practice-pdf"><a class="btn btn-ghost" href="assets/pdf/home-fun-booklet-1.pdf#page=14" target="_blank" rel="noopener">练习 PDF · 书页 12–13（PDF 第 14–15 页）</a></p>
   <details>
     <summary>做完啦，查看答案</summary>
     <div class="practice-answer">
-      <div class="practice-pages"><figure class="practice-figure">
-  <a href="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/5d8c8189-e794-4ede-9acf-40b6317df75a/1900d10663ba5096c46d7b10540fd84a625dc54db8af090679bd3e21f54e16bf.jpg" target="_blank" rel="noopener"><img src="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/5d8c8189-e794-4ede-9acf-40b6317df75a/1900d10663ba5096c46d7b10540fd84a625dc54db8af090679bd3e21f54e16bf.jpg" alt="Home Fun Booklet Review 1 答案页"></a>
-  <figcaption>答案页</figcaption>
-</figure></div>
+      <div class="practice-pages">
+    <figure class="practice-figure">
+      <a href="assets/pages/home-fun/answer-p12.jpg" target="_blank" rel="noopener"><img src="assets/pages/home-fun/answer-p12.jpg" alt="Home Fun Booklet Review 1 第 12 页答案" width="1202" height="1682" loading="lazy"></a>
+      <figcaption>答案页 · 第 12 页</figcaption>
+    </figure>
+    <figure class="practice-figure">
+      <a href="assets/pages/home-fun/answer-p13.jpg" target="_blank" rel="noopener"><img src="assets/pages/home-fun/answer-p13.jpg" alt="Home Fun Booklet Review 1 第 13 页答案" width="1202" height="1682" loading="lazy"></a>
+      <figcaption>答案页 · 第 13 页</figcaption>
+    </figure>
+      </div>
+      <p class="practice-pdf"><a class="btn btn-ghost" href="assets/pdf/home-fun-answers-1.pdf#page=12" target="_blank" rel="noopener">答案 PDF · 书页 12–13（PDF 第 12–13 页）</a></p>
+      <p class="small">答案页里的 “Student's own answers” 表示开放题，孩子自己的回答就是正确答案。</p>
     </div>
   </details>
-  <p class="practice-note">原书：<a href="https://github.com/wangwx2019/storyfun/blob/main/MinerU_markdown_182_4-_Home_Fun_Booklet_1_Owen_Melissa_2017_-32p__2117271120779317248.md#L457-L516" target="_blank" rel="noopener">Home Fun Booklet · Review</a> · <a href="https://github.com/wangwx2019/storyfun/blob/main/MinerU_markdown_182_5-_Home_Fun_Booklet_1._Answers_Owen_Melissa_2017_-32p__2117271459733602304.md#L376-L407" target="_blank" rel="noopener">Answers · Review</a>。</p>
+  <p class="practice-note">原书：<a href="https://github.com/wangwx2019/storyfun/blob/main/MinerU_markdown_182_4-_Home_Fun_Booklet_1_Owen_Melissa_2017_-32p__2117271120779317248.md#L457-L516" target="_blank" rel="noopener">Home Fun Booklet · Review 1</a> · <a href="https://github.com/wangwx2019/storyfun/blob/main/MinerU_markdown_182_5-_Home_Fun_Booklet_1._Answers_Owen_Melissa_2017_-32p__2117271459733602304.md#L376-L407" target="_blank" rel="noopener">Answers · Review 1</a>。</p>
 </div>
 
 ## 🔗 原书链接

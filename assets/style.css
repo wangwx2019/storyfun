@@ -773,6 +773,12 @@ a:hover { color: var(--teal-dark); }
 .practice-answer ol,
 .practice-answer ul { margin-bottom: 10px; }
 .practice-answer table { margin: 8px 0 14px; }
+.practice-pdf { margin: 10px 0 4px; }
+.practice-pdf .btn {
+  padding: 8px 14px;
+  font-size: 12.5px;
+}
+.practice-answer .practice-pdf { margin-top: 12px; }
 .practice-note {
   margin: 10px 0 0;
   color: var(--muted);

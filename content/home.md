@@ -87,7 +87,7 @@ flowchart LR
   <div class="mini-card"><strong>👧 给孩子看</strong><p>先看图猜故事，再读“故事地图”，最后挑 3 个句型开口说。</p></div>
   <div class="mini-card"><strong>👨‍👩‍👧 给家长看</strong><p>用“家长 / 老师指南”里的 5 步流程，每次 15–20 分钟就够。</p></div>
   <div class="mini-card"><strong>🧑‍🏫 给老师看</strong><p>每个单元都标了 Starters 题型对应，可以直接拿去做课堂任务。</p></div>
-  <div class="mini-card"><strong>📝 学完就练</strong><p>每个单元页末都有 Home Fun 练习页；答案折叠在下面，做完再展开。</p></div>
+  <div class="mini-card"><strong>📝 学完就练</strong><p>每个单元页末都有 Home Fun 练习页；答案折叠在下面，做完再展开。也可以打开原书 PDF 对照或打印。</p></div>
   <div class="mini-card"><strong>📚 想核对原文</strong><p>“原书资料”里有 Student's Book、Teacher's Book、Home Fun 的链接。</p></div>
 </div>
 

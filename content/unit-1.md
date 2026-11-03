@@ -146,27 +146,40 @@ bird, black, blue, boots, boy, bye, cat, count, Dan, dog, Eva, fish, friend, gir
 
 ## 📝 Home Fun 练习
 
-<p class="small">学完这个单元，顺手做一页 Home Fun。先独立完成，再展开答案；点击图片可以看大图。</p>
+<p class="small">学完这个单元，顺手做一组 Home Fun。先独立完成，再展开答案；点击图片可以看大图，也可以直接打开原书 PDF 对照或打印。</p>
 
 <div class="practice">
   <div class="practice-head">
     <span class="practice-badge">HOME FUN</span>
     <span class="practice-title">Numbers · 第 4–5 页</span>
   </div>
-  <p class="practice-task"><strong>本页任务：</strong>A Write the numbers. B Draw lines. 练习数字 1–10 和单词连线。</p>
+  <p class="practice-task"><strong>本组任务：</strong>A Write the numbers. B Draw lines.</p>
   <div class="practice-pages">
     <figure class="practice-figure">
-  <a href="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/f1094ecd-cb9b-40e3-ab0c-16a58fd7295a/27420ecd4ed24d9453d33650643564301341a048ab4fd6e05ecc55f2cd915284.jpg" target="_blank" rel="noopener"><img src="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/f1094ecd-cb9b-40e3-ab0c-16a58fd7295a/27420ecd4ed24d9453d33650643564301341a048ab4fd6e05ecc55f2cd915284.jpg" alt="Home Fun Booklet Numbers 练习页"></a>
-  <figcaption>练习页</figcaption>
-</figure>
+      <a href="assets/pages/home-fun/practice-p04.jpg" target="_blank" rel="noopener"><img src="assets/pages/home-fun/practice-p04.jpg" alt="Home Fun Booklet Numbers 第 4 页练习" width="1158" height="1638" loading="lazy"></a>
+      <figcaption>练习页 · 第 4 页</figcaption>
+    </figure>
+    <figure class="practice-figure">
+      <a href="assets/pages/home-fun/practice-p05.jpg" target="_blank" rel="noopener"><img src="assets/pages/home-fun/practice-p05.jpg" alt="Home Fun Booklet Numbers 第 5 页练习" width="1158" height="1638" loading="lazy"></a>
+      <figcaption>练习页 · 第 5 页</figcaption>
+    </figure>
   </div>
+  <p class="practice-pdf"><a class="btn btn-ghost" href="assets/pdf/home-fun-booklet-1.pdf#page=6" target="_blank" rel="noopener">练习 PDF · 书页 4–5（PDF 第 6–7 页）</a></p>
   <details>
     <summary>做完啦，查看答案</summary>
     <div class="practice-answer">
-      <div class="practice-pages"><figure class="practice-figure">
-  <a href="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/5d8c8189-e794-4ede-9acf-40b6317df75a/cb2c29fe9ceabc5bb8c322e62145e2396dbff8fbf4bfa9aa434415fca0922a55.jpg" target="_blank" rel="noopener"><img src="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/5d8c8189-e794-4ede-9acf-40b6317df75a/cb2c29fe9ceabc5bb8c322e62145e2396dbff8fbf4bfa9aa434415fca0922a55.jpg" alt="Home Fun Booklet Numbers 答案页"></a>
-  <figcaption>答案页</figcaption>
-</figure></div>
+      <div class="practice-pages">
+    <figure class="practice-figure">
+      <a href="assets/pages/home-fun/answer-p04.jpg" target="_blank" rel="noopener"><img src="assets/pages/home-fun/answer-p04.jpg" alt="Home Fun Booklet Numbers 第 4 页答案" width="1202" height="1682" loading="lazy"></a>
+      <figcaption>答案页 · 第 4 页</figcaption>
+    </figure>
+    <figure class="practice-figure">
+      <a href="assets/pages/home-fun/answer-p05.jpg" target="_blank" rel="noopener"><img src="assets/pages/home-fun/answer-p05.jpg" alt="Home Fun Booklet Numbers 第 5 页答案" width="1202" height="1682" loading="lazy"></a>
+      <figcaption>答案页 · 第 5 页</figcaption>
+    </figure>
+      </div>
+      <p class="practice-pdf"><a class="btn btn-ghost" href="assets/pdf/home-fun-answers-1.pdf#page=4" target="_blank" rel="noopener">答案 PDF · 书页 4–5（PDF 第 4–5 页）</a></p>
+      <p class="small">答案页里的 “Student's own answers” 表示开放题，孩子自己的回答就是正确答案。</p>
     </div>
   </details>
   <p class="practice-note">原书：<a href="https://github.com/wangwx2019/storyfun/blob/main/MinerU_markdown_182_4-_Home_Fun_Booklet_1_Owen_Melissa_2017_-32p__2117271120779317248.md#L156-L177" target="_blank" rel="noopener">Home Fun Booklet · Numbers</a> · <a href="https://github.com/wangwx2019/storyfun/blob/main/MinerU_markdown_182_5-_Home_Fun_Booklet_1._Answers_Owen_Melissa_2017_-32p__2117271459733602304.md#L108-L122" target="_blank" rel="noopener">Answers · Numbers</a>。</p>

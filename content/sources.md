@@ -1,6 +1,6 @@
 # 原书资料
 
-本站的拆书笔记整理自以下 Markdown 文件。图片均来自 MinerU 的 CDN 链接，如需对照原始排版可直接打开对应文件。
+本站的拆书笔记整理自以下 Markdown 文件，并用原书 PDF 校准了 Home Fun 的练习页和答案页。故事页图片仍来自 MinerU 的 CDN 链接；Home Fun 页面图则从原书 PDF 按页导出。
 
 ## Storyfun 1 四份原始材料
 
@@ -11,12 +11,21 @@
 | Home Fun Booklet | 家庭练习册（32 页）· 每单元家庭作业和 Picture Dictionary | [MinerU_markdown_182_4-_Home_Fun_Booklet_1_Owen_Melissa_2017_-32p__2117271120779317248.md](https://github.com/wangwx2019/storyfun/blob/main/MinerU_markdown_182_4-_Home_Fun_Booklet_1_Owen_Melissa_2017_-32p__2117271120779317248.md) |
 | Home Fun Booklet Answers | 家庭练习册答案（32 页） | [MinerU_markdown_182_5-_Home_Fun_Booklet_1._Answers_Owen_Melissa_2017_-32p__2117271459733602304.md](https://github.com/wangwx2019/storyfun/blob/main/MinerU_markdown_182_5-_Home_Fun_Booklet_1._Answers_Owen_Melissa_2017_-32p__2117271459733602304.md) |
 
+## Home Fun 原书 PDF
+
+| 材料 | 页数 / 页码说明 | 链接 |
+| --- | --- | --- |
+| Home Fun Booklet 练习册 | 35 页；书页 4–25 对应 PDF 第 6–27 页 | [home-fun-booklet-1.pdf](https://github.com/wangwx2019/storyfun/raw/main/assets/pdf/home-fun-booklet-1.pdf) |
+| Home Fun Booklet Answers | 32 页；书页 4–25 对应 PDF 第 4–25 页 | [home-fun-answers-1.pdf](https://github.com/wangwx2019/storyfun/raw/main/assets/pdf/home-fun-answers-1.pdf) |
+
+页面图放在 `assets/pages/home-fun/`：练习页 `practice-p04.jpg`–`practice-p25.jpg`，答案页 `answer-p04.jpg`–`answer-p25.jpg`。
+
 ## 整理说明
 
 - **来源**：PDF 经 [MinerU](https://mineru.net/) OCR 转换。
-- **图片**：直接引用 `cdn-mineru.openxlab.org.cn` 的远程链接，保证 GitHub 仓库体积小。
+- **图片**：故事页直接引用 `cdn-mineru.openxlab.org.cn` 的远程链接；Home Fun 练习/答案页从原书 PDF 按页导出，放在 `assets/pages/home-fun/`，保证网页上的页和原书一致。
 - **精简**：本站把原书中的活动步骤简化成“故事地图”“词汇卡”“句型卡”和“小任务”，方便亲子共读。
-- **练习与答案**：每个单元页末嵌入 Home Fun 练习页和折叠答案；先做再对答案。部分答案页在 OCR 中只保留了局部图时，用文字答案补充。
+- **练习与答案**：每个单元页末嵌入 Home Fun 练习页和折叠答案；先做再对答案。每个单元还附了原书 PDF 对应页，方便打印或核对。
 - **中英结合**：翻译和解释都是教学用简短表达，并不替代原文和教师用书的专业指导。
 
 ## 版权声明

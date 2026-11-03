@@ -158,27 +158,40 @@ balloon, birthday, brother, cake, card, clock, dad, Dan, eight, family, food, gr
 
 ## 📝 Home Fun 练习
 
-<p class="small">学完这个单元，顺手做一页 Home Fun。先独立完成，再展开答案；点击图片可以看大图。</p>
+<p class="small">学完这个单元，顺手做一组 Home Fun。先独立完成，再展开答案；点击图片可以看大图，也可以直接打开原书 PDF 对照或打印。</p>
 
 <div class="practice">
   <div class="practice-head">
     <span class="practice-badge">HOME FUN</span>
     <span class="practice-title">Family · 第 8–9 页</span>
   </div>
-  <p class="practice-task"><strong>本页任务：</strong>A Circle the family words. B Draw lines. Draw and write：画一画、写一写自己的家人。</p>
+  <p class="practice-task"><strong>本组任务：</strong>A Circle the family words. B Draw lines. C Draw and write.</p>
   <div class="practice-pages">
     <figure class="practice-figure">
-  <a href="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/f1094ecd-cb9b-40e3-ab0c-16a58fd7295a/fe67f8054a854432c8415c0e9808764318599d42d7031ff1c6e9b8fe3c11784c.jpg" target="_blank" rel="noopener"><img src="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/f1094ecd-cb9b-40e3-ab0c-16a58fd7295a/fe67f8054a854432c8415c0e9808764318599d42d7031ff1c6e9b8fe3c11784c.jpg" alt="Home Fun Booklet Family 练习页"></a>
-  <figcaption>练习页</figcaption>
-</figure>
+      <a href="assets/pages/home-fun/practice-p08.jpg" target="_blank" rel="noopener"><img src="assets/pages/home-fun/practice-p08.jpg" alt="Home Fun Booklet Family 第 8 页练习" width="1158" height="1638" loading="lazy"></a>
+      <figcaption>练习页 · 第 8 页</figcaption>
+    </figure>
+    <figure class="practice-figure">
+      <a href="assets/pages/home-fun/practice-p09.jpg" target="_blank" rel="noopener"><img src="assets/pages/home-fun/practice-p09.jpg" alt="Home Fun Booklet Family 第 9 页练习" width="1158" height="1638" loading="lazy"></a>
+      <figcaption>练习页 · 第 9 页</figcaption>
+    </figure>
   </div>
+  <p class="practice-pdf"><a class="btn btn-ghost" href="assets/pdf/home-fun-booklet-1.pdf#page=10" target="_blank" rel="noopener">练习 PDF · 书页 8–9（PDF 第 10–11 页）</a></p>
   <details>
     <summary>做完啦，查看答案</summary>
     <div class="practice-answer">
-      <div class="practice-pages"><figure class="practice-figure">
-  <a href="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/5d8c8189-e794-4ede-9acf-40b6317df75a/eab761a2b30e92721859b45638a61160ba9c4221f3213c0b866289adff0b4f0d.jpg" target="_blank" rel="noopener"><img src="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/5d8c8189-e794-4ede-9acf-40b6317df75a/eab761a2b30e92721859b45638a61160ba9c4221f3213c0b866289adff0b4f0d.jpg" alt="Home Fun Booklet Family 答案页"></a>
-  <figcaption>答案页</figcaption>
-</figure></div>
+      <div class="practice-pages">
+    <figure class="practice-figure">
+      <a href="assets/pages/home-fun/answer-p08.jpg" target="_blank" rel="noopener"><img src="assets/pages/home-fun/answer-p08.jpg" alt="Home Fun Booklet Family 第 8 页答案" width="1202" height="1682" loading="lazy"></a>
+      <figcaption>答案页 · 第 8 页</figcaption>
+    </figure>
+    <figure class="practice-figure">
+      <a href="assets/pages/home-fun/answer-p09.jpg" target="_blank" rel="noopener"><img src="assets/pages/home-fun/answer-p09.jpg" alt="Home Fun Booklet Family 第 9 页答案" width="1202" height="1682" loading="lazy"></a>
+      <figcaption>答案页 · 第 9 页</figcaption>
+    </figure>
+      </div>
+      <p class="practice-pdf"><a class="btn btn-ghost" href="assets/pdf/home-fun-answers-1.pdf#page=8" target="_blank" rel="noopener">答案 PDF · 书页 8–9（PDF 第 8–9 页）</a></p>
+      <p class="small">答案页里的 “Student's own answers” 表示开放题，孩子自己的回答就是正确答案。</p>
     </div>
   </details>
   <p class="practice-note">原书：<a href="https://github.com/wangwx2019/storyfun/blob/main/MinerU_markdown_182_4-_Home_Fun_Booklet_1_Owen_Melissa_2017_-32p__2117271120779317248.md#L316-L357" target="_blank" rel="noopener">Home Fun Booklet · Family</a> · <a href="https://github.com/wangwx2019/storyfun/blob/main/MinerU_markdown_182_5-_Home_Fun_Booklet_1._Answers_Owen_Melissa_2017_-32p__2117271459733602304.md#L240-L271" target="_blank" rel="noopener">Answers · Family</a>。</p>
