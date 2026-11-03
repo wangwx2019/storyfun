@@ -161,7 +161,90 @@ apple, apple pie, carrots, chicken, chips, clothes shop, donkey, egg, fish, food
 | Reading and Writing Part 4 | 看图片和短文，填一个名词 |
 | Listening Part 1 | 听名字，把人名和人物连线 |
 
-<p class="small">Home Fun Booklet：<strong>Food</strong> 第 20–21 页。书末还有 <strong>Review</strong> 第 22–23 页和 <strong>Let's have fun!</strong> 第 24–25 页，可作为全书复习。</p>
+
+## 📝 Home Fun 练习
+
+<p class="small">学完这个单元，顺手做一页 Home Fun。先独立完成，再展开答案；点击图片可以看大图。</p>
+
+<div class="practice">
+  <div class="practice-head">
+    <span class="practice-badge">HOME FUN</span>
+    <span class="practice-title">Food · 第 20–21 页</span>
+  </div>
+  <p class="practice-task"><strong>本页任务：</strong>A Read and draw lines. B Draw your food and write. My shopping list. Fun at home：做食物转盘，玩购物游戏。</p>
+  <div class="practice-pages">
+    <figure class="practice-figure">
+  <a href="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/f1094ecd-cb9b-40e3-ab0c-16a58fd7295a/832be0780306b9bb28c9d70480733fe99ea00658a2bc6b9fb4d22c02c46d3183.jpg" target="_blank" rel="noopener"><img src="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/f1094ecd-cb9b-40e3-ab0c-16a58fd7295a/832be0780306b9bb28c9d70480733fe99ea00658a2bc6b9fb4d22c02c46d3183.jpg" alt="Home Fun Booklet Food 练习页"></a>
+  <figcaption>练习页</figcaption>
+</figure>
+  </div>
+  <details>
+    <summary>做完啦，查看答案</summary>
+    <div class="practice-answer">
+      <div class="practice-pages"><figure class="practice-figure">
+  <a href="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/5d8c8189-e794-4ede-9acf-40b6317df75a/690e97bd8748d5709c170c89868e7f27d359227e81ca0227c3aaf126f358739f.jpg" target="_blank" rel="noopener"><img src="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/5d8c8189-e794-4ede-9acf-40b6317df75a/690e97bd8748d5709c170c89868e7f27d359227e81ca0227c3aaf126f358739f.jpg" alt="Home Fun Booklet Food 答案页 1"></a>
+  <figcaption>答案页 1</figcaption>
+</figure>
+<figure class="practice-figure">
+  <a href="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/5d8c8189-e794-4ede-9acf-40b6317df75a/f95fbbcd08bfba19e5077753af71ae8c10a60f6eb042ff2fb8e0f934a8565572.jpg" target="_blank" rel="noopener"><img src="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/5d8c8189-e794-4ede-9acf-40b6317df75a/f95fbbcd08bfba19e5077753af71ae8c10a60f6eb042ff2fb8e0f934a8565572.jpg" alt="Home Fun Booklet Food 答案页 2"></a>
+  <figcaption>答案页 2</figcaption>
+</figure></div>
+    </div>
+  </details>
+  <p class="practice-note">原书：<a href="https://github.com/wangwx2019/storyfun/blob/main/MinerU_markdown_182_4-_Home_Fun_Booklet_1_Owen_Melissa_2017_-32p__2117271120779317248.md#L802-L897" target="_blank" rel="noopener">Home Fun Booklet · Food</a> · <a href="https://github.com/wangwx2019/storyfun/blob/main/MinerU_markdown_182_5-_Home_Fun_Booklet_1._Answers_Owen_Melissa_2017_-32p__2117271459733602304.md#L711-L776" target="_blank" rel="noopener">Answers · Food</a>。</p>
+</div>
+
+<div class="practice">
+  <div class="practice-head">
+    <span class="practice-badge">REVIEW</span>
+    <span class="practice-title">Review · 第 22–23 页（全书复习）</span>
+  </div>
+  <p class="practice-task"><strong>本页任务：</strong>A Read, write and colour. B Where are you? Draw you and your family. Fun at home：写五个词，玩单词游戏。</p>
+  <div class="practice-pages">
+    <figure class="practice-figure">
+  <a href="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/f1094ecd-cb9b-40e3-ab0c-16a58fd7295a/1f7c819413636a566eada3bb99223b11ac07df33767f561505c0b15ede7dc29c.jpg" target="_blank" rel="noopener"><img src="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/f1094ecd-cb9b-40e3-ab0c-16a58fd7295a/1f7c819413636a566eada3bb99223b11ac07df33767f561505c0b15ede7dc29c.jpg" alt="Home Fun Booklet Review 2 练习页"></a>
+  <figcaption>练习页</figcaption>
+</figure>
+  </div>
+  <details>
+    <summary>做完啦，查看答案</summary>
+    <div class="practice-answer">
+      <div class="practice-pages"><figure class="practice-figure">
+  <a href="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/5d8c8189-e794-4ede-9acf-40b6317df75a/e5b4d79b09f6a075b973989b19d0f67855f5ad436ffc586ee92464f544b876f1.jpg" target="_blank" rel="noopener"><img src="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/5d8c8189-e794-4ede-9acf-40b6317df75a/e5b4d79b09f6a075b973989b19d0f67855f5ad436ffc586ee92464f544b876f1.jpg" alt="Home Fun Booklet Review 2 答案页"></a>
+  <figcaption>答案页</figcaption>
+</figure></div>
+    </div>
+  </details>
+  <p class="practice-note">原书：<a href="https://github.com/wangwx2019/storyfun/blob/main/MinerU_markdown_182_4-_Home_Fun_Booklet_1_Owen_Melissa_2017_-32p__2117271120779317248.md#L898-L964" target="_blank" rel="noopener">Home Fun Booklet · Review</a> · <a href="https://github.com/wangwx2019/storyfun/blob/main/MinerU_markdown_182_5-_Home_Fun_Booklet_1._Answers_Owen_Melissa_2017_-32p__2117271459733602304.md#L777-L835" target="_blank" rel="noopener">Answers · Review</a>。</p>
+</div>
+
+<div class="practice">
+  <div class="practice-head">
+    <span class="practice-badge">BONUS</span>
+    <span class="practice-title">Let's have fun! · 第 24–25 页（全书拓展）</span>
+  </div>
+  <p class="practice-task"><strong>本页任务：</strong>Ask your friend three questions. Where can you help? Take photos of signs. What's the first letter?</p>
+  <div class="practice-pages">
+    <figure class="practice-figure">
+  <a href="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/f1094ecd-cb9b-40e3-ab0c-16a58fd7295a/515b3eb52cfbeb4ea984ba5f64dfdf980b7a68547eb2b01e7014f1d3d69de6ce.jpg" target="_blank" rel="noopener"><img src="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/f1094ecd-cb9b-40e3-ab0c-16a58fd7295a/515b3eb52cfbeb4ea984ba5f64dfdf980b7a68547eb2b01e7014f1d3d69de6ce.jpg" alt="Home Fun Booklet Let's have fun 练习页"></a>
+  <figcaption>练习页</figcaption>
+</figure>
+  </div>
+  <details>
+    <summary>做完啦，查看答案</summary>
+    <div class="practice-answer">
+      <p><strong>这一页是开放任务，没有唯一答案。</strong></p>
+      <ul>
+        <li><strong>A Ask your friend three questions.</strong> 采访朋友 3 个问题，拍成小视频。例如：<em>What's your name? How old are you? What's your favourite toy?</em></li>
+        <li><strong>B Where can you help?</strong> 把人物和地点连线（shops / school / home / park），再说：<em>I can help at …</em></li>
+        <li><strong>C Take photos of three signs.</strong> 拍 3 张你在生活中看到的英文标志，带到课堂分享。</li>
+        <li><strong>D What's the first letter?</strong> 按首字母给玩具 / 物品分类，写出单词并画图。可以写：<em>bike, ball, car, doll, kite, robot, train, teddy bear</em>。</li>
+      </ul>
+      <p class="small">原书答案页只写了 “Student's own answers”，所以这一页没有标准答案；鼓励孩子用自己的词和句子完成。</p>
+    </div>
+  </details>
+  <p class="practice-note">原书：<a href="https://github.com/wangwx2019/storyfun/blob/main/MinerU_markdown_182_4-_Home_Fun_Booklet_1_Owen_Melissa_2017_-32p__2117271120779317248.md#L965-L1161" target="_blank" rel="noopener">Home Fun Booklet · Let's have fun</a> · <a href="https://github.com/wangwx2019/storyfun/blob/main/MinerU_markdown_182_5-_Home_Fun_Booklet_1._Answers_Owen_Melissa_2017_-32p__2117271459733602304.md#L836-L1017" target="_blank" rel="noopener">Answers · Let's have fun</a>。</p>
+</div>
 
 ## 🔗 原书链接
 

@@ -143,7 +143,34 @@ bird, black, blue, boots, boy, bye, cat, count, Dan, dog, Eva, fish, friend, gir
 | Listening Part 3 | 听句子，选正确图片 |
 | Speaking Part 1 | 指图、放卡片、说位置 |
 
-<p class="small">Home Fun Booklet：<strong>Numbers</strong>，第 4–5 页。原文见 <a href="https://github.com/wangwx2019/storyfun/blob/main/MinerU_markdown_182_4-_Home_Fun_Booklet_1_Owen_Melissa_2017_-32p__2117271120779317248.md" target="_blank" rel="noopener">Home Fun Booklet</a>。</p>
+
+## 📝 Home Fun 练习
+
+<p class="small">学完这个单元，顺手做一页 Home Fun。先独立完成，再展开答案；点击图片可以看大图。</p>
+
+<div class="practice">
+  <div class="practice-head">
+    <span class="practice-badge">HOME FUN</span>
+    <span class="practice-title">Numbers · 第 4–5 页</span>
+  </div>
+  <p class="practice-task"><strong>本页任务：</strong>A Write the numbers. B Draw lines. 练习数字 1–10 和单词连线。</p>
+  <div class="practice-pages">
+    <figure class="practice-figure">
+  <a href="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/f1094ecd-cb9b-40e3-ab0c-16a58fd7295a/27420ecd4ed24d9453d33650643564301341a048ab4fd6e05ecc55f2cd915284.jpg" target="_blank" rel="noopener"><img src="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/f1094ecd-cb9b-40e3-ab0c-16a58fd7295a/27420ecd4ed24d9453d33650643564301341a048ab4fd6e05ecc55f2cd915284.jpg" alt="Home Fun Booklet Numbers 练习页"></a>
+  <figcaption>练习页</figcaption>
+</figure>
+  </div>
+  <details>
+    <summary>做完啦，查看答案</summary>
+    <div class="practice-answer">
+      <div class="practice-pages"><figure class="practice-figure">
+  <a href="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/5d8c8189-e794-4ede-9acf-40b6317df75a/cb2c29fe9ceabc5bb8c322e62145e2396dbff8fbf4bfa9aa434415fca0922a55.jpg" target="_blank" rel="noopener"><img src="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/5d8c8189-e794-4ede-9acf-40b6317df75a/cb2c29fe9ceabc5bb8c322e62145e2396dbff8fbf4bfa9aa434415fca0922a55.jpg" alt="Home Fun Booklet Numbers 答案页"></a>
+  <figcaption>答案页</figcaption>
+</figure></div>
+    </div>
+  </details>
+  <p class="practice-note">原书：<a href="https://github.com/wangwx2019/storyfun/blob/main/MinerU_markdown_182_4-_Home_Fun_Booklet_1_Owen_Melissa_2017_-32p__2117271120779317248.md#L156-L177" target="_blank" rel="noopener">Home Fun Booklet · Numbers</a> · <a href="https://github.com/wangwx2019/storyfun/blob/main/MinerU_markdown_182_5-_Home_Fun_Booklet_1._Answers_Owen_Melissa_2017_-32p__2117271459733602304.md#L108-L122" target="_blank" rel="noopener">Answers · Numbers</a>。</p>
+</div>
 
 ## 🔗 原书链接
 

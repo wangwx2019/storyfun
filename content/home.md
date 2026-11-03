@@ -1,7 +1,7 @@
 <div class="hero">
   <span class="hero-kicker">STORYFUN 1 · 8 STORIES</span>
   <h1>把一本英语故事书，拆成<em>孩子能读懂</em>的小块</h1>
-  <p class="hero-lead">不逐字翻译，不硬背单词。每个单元只用 5 个部分：故事线、词汇包、句型卡、价值点、小任务。</p>
+  <p class="hero-lead">不逐字翻译，不硬背单词。每个单元用故事线、词汇包、句型卡、价值点和小任务拆开，最后顺手做一页 Home Fun 练习。</p>
   <div class="hero-actions">
     <a class="btn btn-primary" href="#/unit-1">从第 1 单元开始 →</a>
     <a class="btn btn-ghost" href="#/map">先看学习地图</a>
@@ -19,7 +19,7 @@
   <div class="step"><span class="step-num">1</span><strong>先读故事</strong><p>跟着人物和图画，猜懂大概意思。</p></div>
   <div class="step"><span class="step-num">2</span><strong>再抓词汇</strong><p>把单词按主题分组，不孤立记忆。</p></div>
   <div class="step"><span class="step-num">3</span><strong>练熟句型</strong><p>用书里的句子换词造句，马上开口。</p></div>
-  <div class="step"><span class="step-num">4</span><strong>做个小任务</strong><p>复述、表演、画画，或者完成 Home Fun。</p></div>
+  <div class="step"><span class="step-num">4</span><strong>做任务 + Home Fun</strong><p>复述、表演、画画，最后完成单元页末的 Home Fun 练习。</p></div>
 </div>
 
 ## 学习路线
@@ -29,7 +29,7 @@ flowchart LR
   A["1<br/>读故事<br/>看懂情节"] --> B["2<br/>抓词汇<br/>主题分组"]
   B --> C["3<br/>练句型<br/>替换造句"]
   C --> D["4<br/>说价值<br/>联系生活"]
-  D --> E["5<br/>做任务<br/>Starters 练习"]
+  D --> E["5<br/>做任务<br/>Starters + Home Fun"]
   classDef step fill:#e4f3ef,stroke:#0f766e,stroke-width:1.5px,color:#26353c
   class A,B,C,D,E step
 ```
@@ -87,6 +87,7 @@ flowchart LR
   <div class="mini-card"><strong>👧 给孩子看</strong><p>先看图猜故事，再读“故事地图”，最后挑 3 个句型开口说。</p></div>
   <div class="mini-card"><strong>👨‍👩‍👧 给家长看</strong><p>用“家长 / 老师指南”里的 5 步流程，每次 15–20 分钟就够。</p></div>
   <div class="mini-card"><strong>🧑‍🏫 给老师看</strong><p>每个单元都标了 Starters 题型对应，可以直接拿去做课堂任务。</p></div>
+  <div class="mini-card"><strong>📝 学完就练</strong><p>每个单元页末都有 Home Fun 练习页；答案折叠在下面，做完再展开。</p></div>
   <div class="mini-card"><strong>📚 想核对原文</strong><p>“原书资料”里有 Student's Book、Teacher's Book、Home Fun 的链接。</p></div>
 </div>
 

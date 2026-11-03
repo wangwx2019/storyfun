@@ -89,7 +89,13 @@ flowchart LR
 | 7 Let's go there now! | Sports | 18–19 |
 | 8 Not today! | Food | 20–21 |
 
-<p class="small">书末还有 <strong>Review</strong> 第 22–23 页和 <strong>Let's have fun!</strong> 第 24–25 页，适合作为全书复习或假期活动。</p>
+<p class="small">书末还有 <strong>Review</strong> 第 22–23 页和 <strong>Let's have fun!</strong> 第 24–25 页，适合作为全书复习或假期活动。每个单元页末已经把 <strong>练习页和答案</strong> 放在一起：先做，再展开“查看答案”。</p>
+
+<div class="callout callout-teal">
+  <span class="callout-title">Home Fun 怎么用</span>
+  <p><strong>1.</strong> 先让孩子独立做练习页，不急着翻答案。<strong>2.</strong> 做完再点开答案，一起找不同。<strong>3.</strong> 错的地方回到单元的词汇卡或句型卡，不急着抄答案。</p>
+  <p class="small">答案页来自 Home Fun Booklet Answers；Animals 和 Home 的答案在 OCR 中只保留了局部图，所以用文字答案补充。</p>
+</div>
 
 <div class="callout callout-teal">
   <span class="callout-title">给家长的一句话</span>

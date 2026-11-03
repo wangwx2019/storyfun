@@ -160,7 +160,51 @@ animal, body, brown, can, climb, crocodile, duck, ear, elephant, eye, face, feet
 | Listening Part 4 | 听指令，给动物图片涂色 |
 | Speaking Part 4 | 回答关于自己的问题 |
 
-<p class="small">Home Fun Booklet：<strong>Animals</strong> 第 14–15 页。</p>
+
+## 📝 Home Fun 练习
+
+<p class="small">学完这个单元，顺手做一页 Home Fun。先独立完成，再展开答案；点击图片可以看大图。</p>
+
+<div class="practice">
+  <div class="practice-head">
+    <span class="practice-badge">HOME FUN</span>
+    <span class="practice-title">Animals · 第 14–15 页</span>
+  </div>
+  <p class="practice-task"><strong>本页任务：</strong>A Look and write（字母重组）. B Look, read and write（can / can't）. Fun at home：描述动物，让对方猜。</p>
+  <div class="practice-pages">
+    <figure class="practice-figure">
+  <a href="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/f1094ecd-cb9b-40e3-ab0c-16a58fd7295a/9123dde0812213a0b7aba4f4f846092896acbe841b8e5213259006578ddb5870.jpg" target="_blank" rel="noopener"><img src="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/f1094ecd-cb9b-40e3-ab0c-16a58fd7295a/9123dde0812213a0b7aba4f4f846092896acbe841b8e5213259006578ddb5870.jpg" alt="Home Fun Booklet Animals 练习页"></a>
+  <figcaption>练习页</figcaption>
+</figure>
+  </div>
+  <details>
+    <summary>做完啦，查看答案</summary>
+    <div class="practice-answer">
+      <p><strong>A Look and write（字母重组）</strong></p>
+<ul>
+  <li>ogd → <strong>dog</strong></li>
+  <li>ethpelan → <strong>elephant</strong></li>
+  <li>ihopp → <strong>hippo</strong></li>
+  <li>mnoeky → <strong>monkey</strong></li>
+  <li>codricole → <strong>crocodile</strong></li>
+  <li>dkcu → <strong>duck</strong></li>
+</ul>
+<p><strong>B Look, read and write（参考答案）</strong></p>
+<table>
+  <thead><tr><th>动物</th><th>can</th><th>can't</th></tr></thead>
+  <tbody>
+    <tr><td>monkey</td><td>jump, run</td><td>swim, fly</td></tr>
+    <tr><td>elephant</td><td>swim, run</td><td>jump, fly</td></tr>
+    <tr><td>duck</td><td>swim, fly</td><td>jump, run</td></tr>
+    <tr><td>crocodile</td><td>swim, run</td><td>jump, fly</td></tr>
+  </tbody>
+</table>
+<p><strong>Fun at home</strong>：想一种动物，用 <em>I am … / I can … / I can't …</em> 描述，让对方猜。</p>
+<p class="small">B 部分为参考；Animals 的完整答案页在原书 Answers 中只保留了局部截图，可点上面的原书链接核对。</p>
+    </div>
+  </details>
+  <p class="practice-note">原书：<a href="https://github.com/wangwx2019/storyfun/blob/main/MinerU_markdown_182_4-_Home_Fun_Booklet_1_Owen_Melissa_2017_-32p__2117271120779317248.md#L517-L611" target="_blank" rel="noopener">Home Fun Booklet · Animals</a> · <a href="https://github.com/wangwx2019/storyfun/blob/main/MinerU_markdown_182_5-_Home_Fun_Booklet_1._Answers_Owen_Melissa_2017_-32p__2117271459733602304.md#L408-L502" target="_blank" rel="noopener">Answers · Animals</a>。</p>
+</div>
 
 ## 🔗 原书链接
 

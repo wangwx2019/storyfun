@@ -158,7 +158,46 @@ armchair, bike, can, coat, come, computer, cupboard, Dad, drive, find, glasses, 
 | Listening Part 4 | 听指令，给图片涂色 |
 | Speaking Part 1 | 指图、放卡片、说位置 |
 
-<p class="small">Home Fun Booklet：<strong>Home</strong> 第 16–17 页。</p>
+
+## 📝 Home Fun 练习
+
+<p class="small">学完这个单元，顺手做一页 Home Fun。先独立完成，再展开答案；点击图片可以看大图。</p>
+
+<div class="practice">
+  <div class="practice-head">
+    <span class="practice-badge">HOME FUN</span>
+    <span class="practice-title">Home · 第 16–17 页</span>
+  </div>
+  <p class="practice-task"><strong>本页任务：</strong>A Circle the correct answer. B Draw your toy and write. C Count and write. D What's in your house?</p>
+  <div class="practice-pages">
+    <figure class="practice-figure">
+  <a href="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/f1094ecd-cb9b-40e3-ab0c-16a58fd7295a/cf55eb0fcb70d8f57574bf42528a108e95d3618630ad7f30dc80baf0d1f9f07b.jpg" target="_blank" rel="noopener"><img src="https://cdn-mineru.openxlab.org.cn/result/2026-11-02/f1094ecd-cb9b-40e3-ab0c-16a58fd7295a/cf55eb0fcb70d8f57574bf42528a108e95d3618630ad7f30dc80baf0d1f9f07b.jpg" alt="Home Fun Booklet Home 练习页"></a>
+  <figcaption>练习页</figcaption>
+</figure>
+  </div>
+  <details>
+    <summary>做完啦，查看答案</summary>
+    <div class="practice-answer">
+      <p><strong>A Circle the correct answer（参考答案）</strong></p>
+<ol>
+  <li>The robot is <strong>under</strong> the table.</li>
+  <li>The robot is <strong>on</strong> the armchair.</li>
+  <li>The robot is <strong>in</strong> the cupboard.</li>
+  <li>The robot is <strong>next to</strong> the computer.</li>
+</ol>
+<p><strong>C Count and write</strong></p>
+<ol>
+  <li>Jill has got <strong>five lamps</strong>.</li>
+  <li>Jill has got <strong>three sofas</strong>.</li>
+  <li>Jill has got <strong>two tables</strong>.</li>
+  <li>Jill has got <strong>four chairs</strong>.</li>
+</ol>
+<p><strong>B / D</strong>：画自己的玩具或房间，答案是开放的。可以让孩子用 <em>I've got a … It's on / in / under / next to the …</em> 说一说。</p>
+<p class="small">A 部分为参考答案，以原书答案页的圈选为准。B / D 没有唯一答案。</p>
+    </div>
+  </details>
+  <p class="practice-note">原书：<a href="https://github.com/wangwx2019/storyfun/blob/main/MinerU_markdown_182_4-_Home_Fun_Booklet_1_Owen_Melissa_2017_-32p__2117271120779317248.md#L612-L758" target="_blank" rel="noopener">Home Fun Booklet · Home</a> · <a href="https://github.com/wangwx2019/storyfun/blob/main/MinerU_markdown_182_5-_Home_Fun_Booklet_1._Answers_Owen_Melissa_2017_-32p__2117271459733602304.md#L503-L661" target="_blank" rel="noopener">Answers · Home</a>。</p>
+</div>
 
 ## 🔗 原书链接
 
